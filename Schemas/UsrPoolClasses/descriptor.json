@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "63d0e827-c30c-4799-bd67-ff0a3f9a979a",
+    "Name": "UsrPoolClasses",
+    "ModifiedOnUtc": "\/Date(1639397736000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Занятия в бассейне"
+  }
+}

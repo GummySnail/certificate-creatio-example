@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "426b0359-4409-451e-8c2b-5a82b4410665",
+    "Name": "UsrSwimmingProgramsFolder",
+    "ModifiedOnUtc": "\/Date(1638860664000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Программы плавания",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "03ebfc0d-8b76-49f5-bb32-2d56282368fb",
+    "Name": "UsrAutoRecordsCreating",
+    "ModifiedOnUtc": "\/Date(1639391940000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "автоматическое создание записей"
+  }
+}

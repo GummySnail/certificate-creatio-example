@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "c73535c5-a17e-3a88-be28-fc825c99875d",
+    "Name": "MyDevPkg",
+    "ModifiedOnUtc": "\/Date(1638859847000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "78ae52a2-7d50-48a5-9d4e-9cbec55c3d67",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingSoftkeyEnu"
+      }
+    ]
+  }
+}

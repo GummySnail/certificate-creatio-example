@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "73b246aa-0994-4e95-827b-3d351beeac76",
+    "Name": "UsrUsrPoolClasses2a795212Page",
+    "ModifiedOnUtc": "\/Date(1638869350000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Занятия в бассейне\"",
+    "DependsOn": []
+  }
+}
